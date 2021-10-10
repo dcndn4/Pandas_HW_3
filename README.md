@@ -160,3 +160,18 @@ The Sharpe ratio was created by William Sharpe in 1966 (from Investopedia). It h
 The Sharpe ratio divides the profitability of a portfolio by its volatility, to give a measurement of the additional amount of return that an investor receives per unit of increase in risk.
 
 Benchmarks for Sharpe Ratio: 1-2 is good, 2-3 is very good, and over 3 is excellent. 
+
+# Technical Notes
+
+This Jupyter Lab notebook utilizes the following libraries:
+
+
+Pandas
+
+Numpy
+
+Datetime
+
+Pathlib
+
+matplotlib
