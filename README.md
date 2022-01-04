@@ -1,6 +1,8 @@
 #### *Pandas_HW_3*
 # Portfolio Analysis techniques with Python and Pandas
 
+This repo is my internal version, actual submitted repo is: https://github.com/dcndn4/HW_3_Whale_Port-folio--Unit-4.git
+
 This file accompanies the new analysis notebook being provided to investment managers here at Company ABC. 
 
 ## Goal of This Notebook 
